@@ -24,4 +24,7 @@ This lecture focuses on the concept of device twins in the context of the Intern
 
     Throttling Risks: The lecture notes that excessive changes might lead to throttling by the IoT Hub. Direct-to-cloud (D2C) messages for telemetry data are recommended instead, as the Hub is optimized for handling large volumes of that data.
 
-In summary, device twins play a crucial role in IoT management by providing a structured way to handle device states and enabling effective communication and control. If you have any specific questions or need further details, feel free to ask!
+In summary, device twins play a crucial role in IoT management by providing a structured way to handle device states and enabling effective communication and control. If you have any specific questions or need further details, feel free to ask!]
+
+## Manage the device
+--> Connection string of the policy
