@@ -28,3 +28,10 @@ So let's do that. Click add here, so that we add a new route. And let's name it 
 --> is that we can test messages so that we can make sure that our query actually works.
 
 --> Test the message
+
+
+## Adding Devices:
+1. Devices registeration (Manually)
+2. API
+3. DeviceID
+4.  
