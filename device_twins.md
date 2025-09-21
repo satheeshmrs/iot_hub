@@ -1,0 +1,9 @@
+- JSON document that reflect the current status of the device
+- Stored in the IOT hub
+- Can be used to
+- --> Allow the IPT Hub to Change the device State
+- --> Immediatley refelect in device
+- --> Reflect change in the IOT Hub
+- --> Can query Based on the Status (All the device are offline)
+- --> JSON Format
+- { deviceId: " ", etag: "", tags: { deploymentLocation:{ buildeing:"43", floor:"1"}}
