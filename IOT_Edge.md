@@ -8,10 +8,14 @@ Practical Applications: Examples include a smart camera that identifies suspicio
 
 Key Components:
 
-IoT Edge Models: Containers run Azure services, third-party services, or custom code on the device, executing the core logic.
-IoT Edge Runtime: Manages models, ensures security, monitors device health, and facilitates cloud communication. It must be installed prior to deploying any models.
-Cloud-Based Interface: Enables remote monitoring and management of devices connected to IoT Edge.
-Architecture Overview: The architecture illustrates how devices connect to the IoT Edge runtime and the cloud via the IoT hub.
+## IoT Edge Models:
+  Containers run Azure services, third-party services, or custom code on the device, executing the core logic.
+##  IoT Edge Runtime: 
+  Manages models, ensures security, monitors device health, and facilitates cloud communication. It must be installed prior to deploying any models.
+## Cloud-Based Interface:
+    Enables remote monitoring and management of devices connected to IoT Edge.
+## Architecture Overview: 
+    The architecture illustrates how devices connect to the IoT Edge runtime and the cloud via the IoT hub.
 
 Cost Structure: The IoT hub used with IoT Edge follows standard pricing; however, the IoT Edge runtime is free to deploy. Costs for models depend on whether they are developed internally or by third parties.
 
